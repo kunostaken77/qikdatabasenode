@@ -1,0 +1,25 @@
+{
+  "name": "qikdb",
+  "version": "1.0.2",
+  "description": "A fast and easy to use JSON database.",
+  "main": "qikdb.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunostaken77/qikdatabasenode.git"
+  },
+  "keywords": [
+    "DB",
+    "database",
+    "qikdb"
+
+  ],
+  "author": "Andrew Bordis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunosyn/qikdb_node/issues"
+  },
+  "homepage": "https://github.com/kunostaken77/qikdatabasenode#readme"
+}
